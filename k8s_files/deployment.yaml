@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: pandacloud-container
-        image: aseemakram19/amazon-prime-video
+        image: 448014237739.dkr.ecr.us-east-1.amazonaws.com/amazon-prime-brij:7
         ports:
         - containerPort: 3000
 ...
